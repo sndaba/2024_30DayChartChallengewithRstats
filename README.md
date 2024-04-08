@@ -3,6 +3,9 @@
   ## The 2024 30 day chart challenge using R programming. 
 ![202430 day chart challenge](https://github.com/sndaba/2024_30DayChartChallengewithRstats/assets/53818579/8bf5297a-79e1-4aed-aebf-a055c8e195eb)
 
+# [Day 06 | OECD data day](https://github.com/sndaba/2024_30DayChartChallengewithRstats/tree/main/Day06OECD_dataDay)
+![2024Day0630DayChartChallenge](https://github.com/sndaba/2024_30DayChartChallengewithRstats/assets/53818579/de119ae7-2e82-4feb-ac3f-46df847796ae)
+
 # [Day 05 | diverging](https://github.com/sndaba/2024_30DayChartChallengewithRstats/tree/main/Day05Diverging)
 ![2024Day05Diverging](https://github.com/sndaba/2024_30DayChartChallengewithRstats/assets/53818579/7cb364ba-ec37-45e4-879a-c25ea3779bec)
 
